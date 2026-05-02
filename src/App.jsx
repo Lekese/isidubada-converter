@@ -237,7 +237,7 @@ export default function IsiDubadaWebApp() {
               <LanguageIcon size={22} />
             </div>
             <div>
-              <p className="text-sm font-semibold uppercase tracking-[0.3em] text-cyan-200">MVP Web App</p>
+              <p className="text-sm font-semibold uppercase tracking-[0.3em] text-cyan-200"></p>
               <h1 className="text-xl font-bold">IsiDubada Converter</h1>
             </div>
           </div>
